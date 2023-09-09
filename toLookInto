@@ -5,3 +5,5 @@ How does git create a unique hash id for every commit?
 first 6 digits of hash are unique enough
 
 gitlab github copilot
+
+can SSH keys cause the https clone not to work?
