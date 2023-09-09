@@ -1,3 +1,4 @@
 Working directory in git
 Staged area in git
 git restore means undo the added files in staged or working directory
+How does git create a unique hash id for every commit?
